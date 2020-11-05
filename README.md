@@ -1,2 +1,2 @@
-# Whitehat-Leaderboard
-Leaderboard for community members
+# Sample repo
+for learning git
