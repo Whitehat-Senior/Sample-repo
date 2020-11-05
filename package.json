@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Whitehat-Senior/Whitehat-Leaderboard/issues"
   },
-  "homepage": "https://github.com/Whitehat-Senior/Whitehat-Leaderboard#readme"
+  "homepage": "https://github.com/Whitehat-Senior/Whitehat-Leaderboard#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  }
 }
